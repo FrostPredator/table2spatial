@@ -113,7 +113,7 @@ Clique no botão <img src="https://github.com/user-attachments/assets/90457e8d-f
 <img src="https://github.com/user-attachments/assets/0a34a8da-0e24-40d2-85cd-e8e785d42d8d" width="500">
 
 - **Título do gráfico:** Um título para o estereograma (deixe em branco para um gráfico sem título).
-- **Tipo de medida:** O tipo de estrutura e notação da medida a ser plotada. Veja a _Note_ abaixo.
+- **Tipo de medida:** O tipo de estrutura e notação do grupo de medidas a ser plotado. Veja a _Note_ abaixo.
 - **Strikes/Dip directions/Trends:** A coluna da tabela que contém os _strikes_, _dip directions_ ou _trends_ da estrutura (dependendo do tipo de medida que foi selecionado acima). Veja a _Note_ abaixo.
 - **Dips/Plunges:** A coluna da tabela que contém os _dips_ ou _plunges_ da estrutura (dependendo do tipo de medida que foi selecionado acima). Veja a _Note_ abaixo.
 - **Rakes:** A coluna da tabela que contém os _rakes_ da estrutura. Disponível apenas quando a opção Linhas em planos (strike/dip/rake) é selecionada. Veja a _Note_ abaixo.
@@ -132,9 +132,9 @@ Clique no botão <img src="https://github.com/user-attachments/assets/90457e8d-f
 > **Rake:** Obliquidade da linha no plano. É o ângulo entre a linha e o *strike* (considerando-se a regra da mão direita) do plano onde ela está contida, medido sobre o plano (0 - 180°).
 
 - **Plotar planos como polos:** Caso marcada, plota apenas os polos dos planos, em vez dos grandes círculos.
-- **Plotar contornos de densidade:** Caso marcada, plota contornos de densidade para a medida. Disponível apenas para a primeira medida plotada no estereograma.
+- **Plotar contornos de densidade:** Caso marcada, plota contornos de densidade para o grupo de medidas. Disponível apenas para o primeiro grupo de medidas plotado no estereograma.
 - **Mostrar legenda:** Caso marcada, exibe uma legenda dos símbolos e quantidade de medidas plotadas no estereograma.
-- **Rótulo das medidas:** Um rótulo que será exibido na legenda para a medida a ser plotada. Disponível apenas quando a opção de mostrar legenda é checada.
+- **Rótulo das medidas:** Um rótulo que será exibido na legenda para o grupo de medidas a ser plotado. Disponível apenas quando a opção de mostrar legenda é checada.
 - **Cor da simbologia:** A cor do marcador ou grande círculo que será plotado.
 - **Marcador de linhas/polos:** O estilo de marcador que será usado para plotar os polos ou linhas.
 - **Cores de densidade:** A rampa de cores que será usada ao plotar contornos de densidade. Disponível apenas quando a opção de plotar contornos de densidade é checada. As opções de cores são mostradas abaixo.
@@ -143,14 +143,12 @@ Clique no botão <img src="https://github.com/user-attachments/assets/90457e8d-f
 
 Clique em OK para criar o estereograma, que aparecerá em uma nova janela.
 
-
-
 Caso queira salvar o estereograma gerado, clique no botão <img src="https://github.com/user-attachments/assets/e7637387-19a1-4e2e-898d-01d1b8a41e01" width="20">.
 
-Você também pode acrescentar novas medidas a um mesmo estereograma, clicando no botão <img src="https://github.com/user-attachments/assets/bab8f7a9-f965-4084-a58f-6a15d4b59a3d" width="20">.
+Você também pode acrescentar novos grupos de medidas a um mesmo estereograma, clicando no botão <img src="https://github.com/user-attachments/assets/bab8f7a9-f965-4084-a58f-6a15d4b59a3d" width="20">.
 
 > [!NOTE]
-> Você pode plotar até 3 medidas em cada estereograma.
+> Você pode plotar até 3 grupos de medidas em cada estereograma.
 
 #### 5.2. Diagramas de Roseta
 
